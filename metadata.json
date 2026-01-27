@@ -1,0 +1,7 @@
+{
+  "name": "Professional AI Developer Portfolio",
+  "description": "A high-end, glassmorphism-inspired portfolio showcasing AI observability, generative platforms, and intelligent developer tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
