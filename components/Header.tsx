@@ -16,7 +16,7 @@ const Header: React.FC = () => {
               and change src to "/profile.jpg"
             */}
             <img 
-              src={"/profile.jpg"}
+              src="/profile.jpg"
               alt={name}
               className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700 scale-105 group-hover:scale-100"
               onError={(e) => {
