@@ -1,69 +1,71 @@
-# 🚀 Tarunjit Biswas | AI Research Engineer & Vibe Coder
+# My Portfolio 
 
-![Tarunjit's Banner](https://github.com/Tarunjit45.png)
+[![GitHub License](https://img.shields.io/github/license/Tarunjit45/My-Portfolio-?style=flat-square)](LICENSE)
+[![CI / Quality Check](https://github.com/Tarunjit45/My-Portfolio-/actions/workflows/ci.yml/badge.svg)](https://github.com/Tarunjit45/My-Portfolio-/actions)
+[![Language](https://img.shields.io/badge/Language-JavaScript/TypeScript-blue?style=flat-square)](https://github.com/Tarunjit45/My-Portfolio-)
 
-> **"Engineering at extreme velocity. Architecting the future of autonomous intelligence, one vibe at a time."**
-
-I am an **AI Research Engineer** and **Vibe Coder** focused on bridging the gap between cutting-edge LLM research and production-grade engineering. I specialize in building high-velocity AI observability tools, autonomous agent frameworks, and specialized web ecosystems.
-
----
-
-### 🧠 Core Research Focus
-*   **AI Reliability & Governance:** Developing frameworks to audit LLM hallucinations and secure agentic decision chains.
-*   **Operational Efficiency:** Profiling token consumption and architectural waste in large-scale AI deployments.
-*   **Agentic Orchestration:** Building multi-agent systems that self-correct and prioritize safety.
-*   **Hardware-Software Synergy:** Optimizing AI-driven hardware controls and low-latency diagnostic dashboards.
+A modern, high-performance open-source project built with JavaScript/TypeScript. Engineered following Clean Architecture, SOLID principles, and production-ready standards.
 
 ---
 
-### 🛠️ Featured Neural Assets
+## 🌟 Key Features
 
-| Project | Problem Solved |
-| :--- | :--- |
-| **[AgentWatch](https://github.com/Tarunjit45/agentwatch)** | Real-time monitoring to stop AI agents from burning tokens and money. |
-| **[HalluciScope](https://github.com/Tarunjit45/HalluciScope)** | Local LLM 'autopsy' tool that detects and scores AI hallucinations. |
-| **[AI-Pulse](https://github.com/Tarunjit45/AI-Pulse)** | Intelligent platform for real-time AI trends using Gemini 2.5 + Search. |
-| **[TokenLens](https://github.com/Tarunjit45/tokenlens)** | A token waste profiler identifying architectural inefficiencies in LLM workflows. |
-| **[ChainWatch](https://github.com/Tarunjit45/ChainWatch)** | A "flight data recorder" for multi-step AI systems ensuring decision integrity. |
+- **Robust Architecture:** Modular and clean separation of concerns.
+- **Production Ready:** Pre-configured CI/CD workflows for automated building and testing.
+- **Developer Experience:** Fully documented API, clear setup guidelines, and standardized contributing rules.
+- **Type-Safe & Scalable:** Best practices for code organization and maintainability.
 
 ---
 
-### 💻 Technical Stack
+## 🚀 Quick Start
 
-- **Languages:** Python, TypeScript, JavaScript, HTML/CSS.
-- **AI/ML:** Gemini API, OpenAI, Ollama, TensorFlow, Hugging Face Transformers.
-- **Frontend:** React, Next.js, Tailwind CSS, Vite.
-- **Backend/CLI:** Node.js, Python CLI frameworks, Vercel, Google Cloud Run.
-- **Robotics/Physics:** MuJoCo Warp, GPU-optimized simulation environments.
+### Prerequisites
+
+- Modern runtime environment (JavaScript/TypeScript)
+- Git
+
+### Installation
+
+```bash
+git clone https://github.com/Tarunjit45/My-Portfolio-.git
+cd My-Portfolio-
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run Project
+
+```bash
+npm run dev # or npm start
+```
+
+### Run Tests
+
+```bash
+npm test
+```
 
 ---
 
-### ⚡ The Vibe Coding Philosophy
-I believe in **Extreme Prototyping**. By orchestrating advanced AI models, I bypass traditional development bottlenecks to ship functional, research-grade software in hours, not weeks. I don't just write code; I orchestrate systems.
+## 🗺️ Roadmap & Future Enhancements
+
+- [x] Initial architecture & core features
+- [x] Standardized open-source governance & CI/CD
+- [ ] Automated end-to-end test expansion
+- [ ] Production deployment & release tags
 
 ---
 
-### 🌐 Connect with Me
+## 🤝 Contributing
 
-<div align="left">
-  <a href="https://github.com/Tarunjit45">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tarunjit-biswas-a5248131b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/tarunjit45">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:hello@tarunjit.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE OF CONDUCT](CODE_OF_CONDUCT.md) before submitting Pull Requests.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarunjit45&show_icons=true&theme=tokyonight" alt="Tarunjit's GitHub stats" />
-</p>
+## 📄 License
 
-[SYSTEM_LOG]: Session active. Architecting the next generation of intelligence...
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
