@@ -1,72 +1,52 @@
-# 🚀 My-Portfolio-
+# 💼 Developer Portfolio — Tarunjit Biswas (@Tarunjit45)
 
-![Language](https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Production-Active-success?style=for-the-badge)
+[![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4+-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-## 📌 Overview
+A high-performance developer portfolio built with **React 18**, **TypeScript**, and **Tailwind CSS**. Showcases projects across **Autonomous AI Agents**, **RAG Systems**, **Computer Vision**, and **Developer Tools**, featuring glassmorphic UI design, interactive project filters, and verifiable live demos.
 
-This Is my portfolio website  
+---
 
-## ✨ Key Features & Architecture
+## ✨ Portfolio Highlights
 
-- **High-Performance Codebase:** Built using `TypeScript` and modern engineering principles.
-- **Modular & Scalable Design:** Structured directory tree for seamless development and deployment.
-- **Modern Responsive Styling:** Custom UI design system engineered for mobile & desktop clarity.
+* 🤖 **AI & Autonomous Agents Showcase:** Featured case studies on AgentWatch, ContextOS, ModelPulse, SpecGuard, and DecisionTrace.
+* 🎨 **Glassmorphism Aesthetic:** Dark mode interface with backdrop blurs, glow accents, and responsive layout.
+* 📱 **Fluid Responsive Layout:** Optimized across ultra-wide monitors, tablets, and mobile smartphones.
+* 📬 **Direct Contact & Socials:** Instant links to GitHub, LinkedIn, and email.
 
-## 🛠️ Tech Stack & Dependencies
+---
 
-- **Core Language:** `TypeScript`
-- **Libraries & Tools:** React 18, Vite, Tailwind CSS, TypeScript
-- **Deployment Infrastructure:** Vercel Edge / Cloud Services
-
-## 📁 Architecture & File Layout
+## 📁 Repository Structure
 
 ```text
 My-Portfolio-/
-├── .github
-├── .github/ISSUE_TEMPLATE
-├── .github/ISSUE_TEMPLATE/bug_report.md
-├── .github/ISSUE_TEMPLATE/feature_request.md
-├── .github/PULL_REQUEST_TEMPLATE.md
-├── .github/workflows
-├── .github/workflows/ci.yml
-├── .gitignore
-├── App.tsx
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
-├── LICENSE
-├── README.md
-├── components
-├── components/AboutSection.tsx
-└── ... [additional codebase files]
+├── App.tsx             # Main portfolio layout, hero, project grid & contact
+├── index.tsx           # React bootstrap entry point
+├── components/         # ProjectCard, SkillBadge, ContactModal, ExperienceTimeline
+├── constants.tsx       # Project catalog data & biography
+├── metadata.json       # Project manifest
+├── package.json        # Dependencies & scripts
+├── LICENSE             # MIT License
+└── README.md
 ```
 
-## 🚀 Quickstart & Installation
+---
 
-### Prerequisites
-- Node.js (v18.0.0 or higher)
-- npm or yarn package manager
+## 🚀 Quick Start
 
-### Setup Instructions
+```bash
+git clone https://github.com/Tarunjit45/My-Portfolio-.git
+cd My-Portfolio-
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Tarunjit45/My-Portfolio-.git
-   cd My-Portfolio-
-   ```
+npm install
+npm run dev
+```
 
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
+Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-3. **Launch development server:**
-   ```bash
-   npm run dev
-   ```
+---
 
-## 📜 Author & License
-
-Architected & Developed by **[Tarunjit Biswas](https://github.com/Tarunjit45)**.  
-Distributed under the **MIT License**.
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
